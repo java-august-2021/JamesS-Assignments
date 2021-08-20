@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	height: 500px;
+	padding-top: 250px;
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	
+}
+.nav_links {
+	width: 500px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.date_display {
+	color: blue;
+}
+
+.time_display {
+	color: green;
+}
+
+a{
+	font-size: 25px;
+}
