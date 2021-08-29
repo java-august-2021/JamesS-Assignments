@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.action_row{
+	display: flex;
+	
+}
+
+.header_row{
+	display: flex;
+	flex-direction: row-reverse;
+	align-content: flex-end;
+}
