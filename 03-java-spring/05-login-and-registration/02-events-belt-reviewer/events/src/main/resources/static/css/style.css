@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+
+.header{
+	padding:10px;
+	height: 50px;
+	display:flex;
+	justify-content: space-between;
+}
+
+.content{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 15px;
+}
+
+.registration_form{
+	margin-right: 20px;
+}
+
+.login_form{
+	margin-left: 20px;
+}
+
+
+
